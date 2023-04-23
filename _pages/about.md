@@ -38,7 +38,7 @@ Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.co
 
 Hong, Sun-Ha. “Predictions without Futures,” *History and Theory,* ed. Ethan Kleinberg, Wiley Online Library. [https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269](https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269). Accessed 23 Nov. 2022.
 
-Nario-Redmond, Michelle R., Dobromir Gospodinov, and Angela Cobb. “Crip for a Day: The Unintended Negative Consequences of Disability Simulations.” *Rehabilitation Psychology* 62, no. 3 (August 2017): [324–33. https://doi.org/10.1037/rep0000127](324–33. https://doi.org/10.1037/rep0000127).
+Nario-Redmond, Michelle R., Dobromir Gospodinov, and Angela Cobb. “Crip for a Day: The Unintended Negative Consequences of Disability Simulations.” *Rehabilitation Psychology* 62, no. 3 (August 2017): [https://doi.org/10.1037/rep0000127](https://doi.org/10.1037/rep0000127).
 
 Piepzna-Samarasinha, Leah Lakshmi. *The Future Is Disabled: Prophecies, Love Notes and Mourning Songs.* Arsenal Pulp Press, 2022.
 
