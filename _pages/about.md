@@ -48,7 +48,7 @@ Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cybor
 
 “Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial](https://voyant-tools.org/docs/#!/guide/tutorial).
 
-Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, sec. Opinion [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
+Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016,[https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
 
 
 
