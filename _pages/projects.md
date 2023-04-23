@@ -27,7 +27,7 @@ Bowen, Liz. *Compassion Fountain.* Trembling Press, 2022.
 Brilmyer, Gracen, and Crystal Lee. “Terms of Use: Crip Legibility in Information Systems.” *First Monday,* February 3, 2023. 
 	[https://doi.org/10.5210fm.v28i1.12935].
   
-Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [[https://github.com/dfreelon/pyktok].]
+Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.com/dfreelon/pyktok]
 
 Hong, Sun-Ha. “Predictions without Futures,” *History and Theory,* ed. Ethan Kleinberg, Wiley Online Library. [https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269]. Accessed 23 Nov. 2022.
 
