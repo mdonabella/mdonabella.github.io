@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Micaela Donabella"
-  avatar           :
+  avatar           : "https://github.com/mdonabella/mdonabella.github.io/blob/1e0b8fad6b0d1f34f42b740cf0789e67bcbff264/images/profile.png"
   bio              : "PhD Student/Teaching Assistant, University of Miami"
   location         : "Miami, FL"
   employer         :
