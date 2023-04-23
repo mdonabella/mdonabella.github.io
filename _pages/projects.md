@@ -5,7 +5,7 @@ excerpt: "Projects"
 author_profile: true
 redirect_from: 
   - /projects/
-  - /projects.html
+  - /projects.md
 ---
 
 ## Dreaming the Cyborg: Technoableism & New Media
