@@ -24,7 +24,7 @@ Keywords: *disability, technofuturism, ableism, technoableism, technology, pande
 Bowen, Liz. *Compassion Fountain.* Trembling Press, 2022.
 
 Brilmyer, Gracen, and Crystal Lee. “Terms of Use: Crip Legibility in Information Systems.” *First Monday,* February 3, 2023. 
-	[https://doi.org/10.5210fm.v28i1.12935].
+	[https://doi.org/10.5210fm.v28i1.12935](https://doi.org/10.5210fm.v28i1.12935).
   
 Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.com/dfreelon/pyktok](https://github.com/dfreelon/pyktok)
 
