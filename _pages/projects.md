@@ -7,8 +7,6 @@ redirect_from:
   - /projects
 ---
 
-{% include base_path %}
-
 ## Dreaming the Cyborg: Technoableism & New Media
 
 ## Description 
