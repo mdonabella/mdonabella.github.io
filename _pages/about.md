@@ -32,23 +32,23 @@ This project will explore manifestations of technoableism in online discourse, a
 Bowen, Liz. *Compassion Fountain.* Trembling Press, 2022.
 
 Brilmyer, Gracen, and Crystal Lee. “Terms of Use: Crip Legibility in Information Systems.” *First Monday,* February 3, 2023. 
-	[https://doi.org/10.5210fm.v28i1.12935].
+	[https://doi.org/10.5210fm.v28i1.12935](https://doi.org/10.5210fm.v28i1.12935).
   
-Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.com/dfreelon/pyktok]
+Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.com/dfreelon/pyktok](https://github.com/dfreelon/pyktok)
 
-Hong, Sun-Ha. “Predictions without Futures,” *History and Theory,* ed. Ethan Kleinberg, Wiley Online Library. [https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269]. Accessed 23 Nov. 2022.
+Hong, Sun-Ha. “Predictions without Futures,” *History and Theory,* ed. Ethan Kleinberg, Wiley Online Library. [https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269](https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269). Accessed 23 Nov. 2022.
 
-Nario-Redmond, Michelle R., Dobromir Gospodinov, and Angela Cobb. “Crip for a Day: The Unintended Negative Consequences of Disability Simulations.” *Rehabilitation Psychology* 62, no. 3 (August 2017): [324–33. https://doi.org/10.1037/rep0000127].
+Nario-Redmond, Michelle R., Dobromir Gospodinov, and Angela Cobb. “Crip for a Day: The Unintended Negative Consequences of Disability Simulations.” *Rehabilitation Psychology* 62, no. 3 (August 2017): [324–33. https://doi.org/10.1037/rep0000127](324–33. https://doi.org/10.1037/rep0000127).
 
 Piepzna-Samarasinha, Leah Lakshmi. *The Future Is Disabled: Prophecies, Love Notes and Mourning Songs.* Arsenal Pulp Press, 2022.
 
-Shew, Ashley. “Ableism, Technoableism, and Future AI” *IEEE Journals & *Magazine, IEEE Xplore.* Accessed April 22, 2023. [https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527].
+Shew, Ashley. “Ableism, Technoableism, and Future AI” *IEEE Journals & *Magazine, IEEE Xplore.* Accessed April 22, 2023. [https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527](https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527).
 
-Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cyborg Resistance.” *Including Disability,* no. 1, 1, Mar. 2022, pp. 13–36. [ojs.scholarsportal.info, https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169].
+Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cyborg Resistance.” *Including Disability,* no. 1, 1, Mar. 2022, pp. 13–36. [ojs.scholarsportal.info, https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169](ojs.scholarsportal.info, https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169).
 
-“Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial].
+“Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial](https://voyant-tools.org/docs/#!/guide/tutorial).
 
-Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, sec. Opinion [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html].
+Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, sec. Opinion [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
 
 
 
