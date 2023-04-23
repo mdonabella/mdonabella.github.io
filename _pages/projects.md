@@ -36,8 +36,8 @@ Piepzna-Samarasinha, Leah Lakshmi. *The Future Is Disabled: Prophecies, Love Not
 
 Shew, Ashley. “Ableism, Technoableism, and Future AI” *IEEE Journals & *Magazine, IEEE Xplore.* Accessed April 22, 2023. [https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527](https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527).
 
-Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cyborg Resistance.” *Including Disability,* no. 1, 1, Mar. 2022, pp. 13–36. [ojs.scholarsportal.info, https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169](ojs.scholarsportal.info, https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169).
+Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cyborg Resistance.” *Including Disability,* no. 1, 1, Mar. 2022, pp. 13–36. [https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169](https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169).
 
 “Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial](https://voyant-tools.org/docs/#!/guide/tutorial).
 
-Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, sec. Opinion [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
+Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
