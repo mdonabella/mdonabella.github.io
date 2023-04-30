@@ -18,7 +18,8 @@ This project will explore manifestations of technoableism in online discourse, a
 
 Keywords: *disability, technofuturism, ableism, technoableism, technology, pandemic*
 
-### [https://drive.google.com/drive/folders/1yQ5pOPB78vnxlEBuU71tf3PTyRzRLxvW?usp=sharing](Dataset)
+### Dataset:
+[https://drive.google.com/drive/folders/1yQ5pOPB78vnxlEBuU71tf3PTyRzRLxvW?usp=sharing](Technoableism & Social Media)
 
 
 ### Bibliography 
