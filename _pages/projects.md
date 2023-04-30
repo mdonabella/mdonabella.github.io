@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /projects
 ---
+# Current & Ongoing 
 
 ## Dreaming the Cyborg: Technoableism & New Media
 
@@ -43,3 +44,10 @@ Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cybor
 “Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial](https://voyant-tools.org/docs/#!/guide/tutorial).
 
 Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
+
+## Disability in the ECDA 
+
+## Description 
+In collaboration with researchers from Northeastern University, I am drawing from the [Early Caribbean Digital Archive](https://ecda.northeastern.edu/) to examine the ways in which disability and somatic difference is represented within the archive. Particularly, we have agreed upon the following questions: (1) How/are somatic markers used as justification for enslavement? (2) Did disability constitute a form of resistance and in what instances? (3) How is the language around disability used in the 18th and early 19th-century Early Caribbean texts? Right now, this research is slated to take two forms: (1) the construction of a collection, which serves as a corpus of texts drawn from the archive that address disability; (2) an exhibit that highlights particular trends around disability within the corpus. 
+
+See my recent talk on this project [here](https://docs.google.com/presentation/d/1PFXTLYgNi4JHi2bYrGIJrmj6rjdwrziG7kkmyW7BjUo/edit?usp=sharing).
