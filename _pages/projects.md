@@ -18,9 +18,8 @@ This project will explore manifestations of technoableism in online discourse, a
 
 Keywords: *disability, technofuturism, ableism, technoableism, technology, pandemic*
 
-### Dataset & Presentation
-[https://drive.google.com/drive/folders/1yQ5pOPB78vnxlEBuU71tf3PTyRzRLxvW?usp=sharing](Technoableism & Social Media)
-
+### Datasets & Presentations
+In the folder [https://drive.google.com/drive/folders/1yQ5pOPB78vnxlEBuU71tf3PTyRzRLxvW?usp=sharing](linked here) you will find two datasets: one containing data and metadata scraped from the Twitter API and one containing metadata scraped from TikTok using the [https://github.com/dfreelon/pyktok](Pyktok module) created by Deen Freelon. You will also find a Google Slides containing the presentation version of my project.
 
 ### Bibliography 
 
