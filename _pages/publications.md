@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### [“Beckett & the Impossibility of Mastery: An Analysis of Agency and Control in Samuel Beckett’s Dramatic Works.”](https://www.proquest.com/docview/2384868038?pq-origsite=gscholar&fromopenview=true) 
+State University of New York at Buffalo *ProQuest Dissertations Publishing,* 2020.
