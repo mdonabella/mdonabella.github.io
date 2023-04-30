@@ -9,7 +9,7 @@ author_profile: true
 #### The Humanities Center at Texas Tech Annual Conference 2023: “Health,” Texas Tech University | Lubbock, Texas
 April 28-29, 2023
 
-### “Disability in the Archive: Reading Somatic Difference in the ECDA,” 
+### “Disability in the Archive: Reading Somatic Difference in the ECDA” 
 #### Digital Humanities Research Institute, University of Miami | Miami, FL
 March 30-31, 2023
 
