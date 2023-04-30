@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### “Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures,” 
+### “Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures” 
 #### The Humanities Center at Texas Tech Annual Conference 2023: “Health,” Texas Tech University | Lubbock, Texas
 April 28-29, 2023
 
