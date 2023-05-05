@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: “Disability in the ECDA”
-permalink: /projects/project-2.md
+permalink: /_projects/project-2.md
 author_profile: true
 redirect_from:
   - /projects
