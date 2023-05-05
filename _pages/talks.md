@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-“Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures,”[The Humanities Center at Texas Tech Annual Conference 2023: “Health,”](https://techannounce.ttu.edu/Client/ViewMessage.aspx?MsgId=272581) Texas Tech University, Lubbock, Texas,  April 28-29, 2023
+“Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures,”[The Humanities Center at Texas Tech Annual Conference 2023: “Health,”](https://techannounce.ttu.edu/Client/ViewMessage.aspx?MsgId=272581) Texas Tech University, Lubbock, Texas, April 28-29, 2023
 
 “Disability in the Archive: Reading Somatic Difference in the ECDA,” [Digital Humanities Research Institute](https://dh.miami.edu/events/index.html), University of Miami, Miami, FL, March 30-31, 2023
 
