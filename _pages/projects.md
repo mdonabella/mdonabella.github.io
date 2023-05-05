@@ -20,8 +20,9 @@ Keywords: *disability, technofuturism, ableism, technoableism, technology, pande
 
 Note: This project grew out of a seminar paper for Dr. Tim Watson’s “Contemporary Criticism & Theory” course in the Fall of 2022. With Dr. Watson’s feedback and Dr. Lindsay Thomas’s guidance in data collection methods, I adapted the paper into a multi-modal project a conference at Texas Tech University: *The Humanities Center at Texas Tech Annual Conference 2023: “Health.”*
 
-### Datasets & Presentations
-In the folder [linked here](https://drive.google.com/drive/folders/1yQ5pOPB78vnxlEBuU71tf3PTyRzRLxvW?usp=sharing) you will find two datasets: one containing data and metadata scraped from the Twitter API and one containing metadata scraped from TikTok using the [Pyktok Module](https://github.com/dfreelon/pyktok) created by Deen Freelon. You will also find a Slides presentation containing a simplified breakdown of the project and my preliminary findings.
+### Datasets 
+[Tik Tok](https://doi.org/10.5281/zenodo.7897928)
+[Twitter](https://doi.org/10.5281/zenodo.7897938) 
 
 ### Bibliography 
 
