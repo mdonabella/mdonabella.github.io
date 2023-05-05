@@ -10,9 +10,9 @@ redirect_from:
 
 ## Current & Ongoing 
 
-### [*Technoableism & New Media*](_projects/project-1.md)
+### [*Technoableism & New Media*](_projects/2023-05-04-project-1.md)
 
-### [*Disability in Archives: Reading Somatic Difference in the ECDA*](_projects/project-2.md)
+### [*Disability in Archives: Reading Somatic Difference in the ECDA*](_projects/2023-05-04-project-2.md)
 
 ## Past
 
