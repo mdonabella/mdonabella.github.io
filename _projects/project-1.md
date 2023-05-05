@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: “Technoableism & Social Media”
-permalink: /_projects/project-1.md 
+permalink: /projects/project-1.md 
 author_profile: true
 redirect_from:
   - /projects
