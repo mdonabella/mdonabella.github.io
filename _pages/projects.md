@@ -10,7 +10,7 @@ redirect_from:
 
 ## Current & Ongoing 
 
-### [*Technoableism & New Media*](https://doi.org/10.5281/zenodo.7897812)
+### [*Dreaming the Cyborg: Technoableism & New Media*](https://doi.org/10.5281/zenodo.7897812)
 
 ### Description
 
