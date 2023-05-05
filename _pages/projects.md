@@ -10,9 +10,9 @@ redirect_from:
 
 ## Current & Ongoing 
 
-### [*Dreaming the Cyborg: Technoableism & New Media*](/_projects/project-1.md)
+### [*Dreaming the Cyborg: Technoableism & New Media*](/projects/project-1.md)
 
-### [*Disability in Archives: Reading Somatic Difference in the ECDA*](/_projects/project-2.md)
+### [*Disability in Archives: Reading Somatic Difference in the ECDA*](/projects/project-2.md)
 
 
 
