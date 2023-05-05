@@ -21,7 +21,7 @@ Keywords: *disability, technofuturism, ableism, technoableism, technology, pande
 Note: This project grew out of a seminar paper for Dr. Tim Watson’s “Contemporary Criticism & Theory” course in the Fall of 2022. With Dr. Watson’s feedback and Dr. Lindsay Thomas’s guidance in data collection methods, I adapted the paper into a multi-modal project a conference at Texas Tech University: *The Humanities Center at Texas Tech Annual Conference 2023: “Health.”*
 
 ### Datasets 
-[Tik Tok](https://doi.org/10.5281/zenodo.7897928)
+[TikTok](https://doi.org/10.5281/zenodo.7897928)
 
 [Twitter](https://doi.org/10.5281/zenodo.7897938) 
 
