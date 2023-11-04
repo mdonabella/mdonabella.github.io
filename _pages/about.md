@@ -10,6 +10,6 @@ redirect_from:
 
 About Me
 ======
-I am a third-year PhD student in Literary Studies at the University of Miami studying representations of disability and technology within contemporary internet and literary cultures. Prior to beginning my Ph.D., I spent three years as a K-12 educator, and received an M.A. in English from the University at Buffalo.
+I am a third-year PhD student in Literary Studies at the University of Miami studying representations of disability and technology within contemporary internet and literary cultures. Prior to beginning my PhD, I spent three years as a K-12 educator, and received an M.A. in English from the University at Buffalo.
 
 
