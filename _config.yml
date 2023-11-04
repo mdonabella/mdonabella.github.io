@@ -83,37 +83,11 @@ author:
   name             : "Micaela Donabella"
   bio              : "PhD Student/Teaching Assistant, University of Miami"
   location         : "Miami, FL"
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "mdonabella"
-  google_plus      :
-  keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
   orcid            : "https://orcid.org/0000-0002-4060-9123"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
   twitter          : "@mc_donabella"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+ 
 
 # Reading Files
 include:
