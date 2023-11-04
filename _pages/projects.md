@@ -7,9 +7,6 @@ redirect_from:
   - /projects
 ---
 
-
-## Current & Ongoing 
-
 ### [*Dreaming the Cyborg: Technoableism & New Media*](https://doi.org/10.5281/zenodo.7897812)
 
 ### Description
@@ -24,11 +21,8 @@ This project explores manifestations of technoableism in online discourse, and i
 ### [*Disability in Archives: Reading Somatic Difference in the ECDA*](https://doi.org/10.5281/zenodo.7898107)
 
 ### Description 
-In collaboration with researchers from Northeastern University, I am drawing from the [Early Caribbean Digital Archive](https://ecda.northeastern.edu/) to examine the ways in which disability and somatic difference is represented within the 18th and 19th century documents. Particularly, we have agreed upon the following questions: (1) How/are somatic markers used as justification for enslavement? (2) Did disability constitute a form of resistance and in what instances? (3) How is the language around disability used in the 18th and early 19th-century Early Caribbean texts? 
+In collaboration with researchers from Northeastern University, I am drawing from the [Early Caribbean Digital Archive](https://ecda.northeastern.edu/) to examine the ways in which disability and somatic difference is represented within the 18th and 19th century documents. We ask: (1) How/are somatic markers used as justification for enslavement? (2) Did disability constitute a form of resistance and in what instances? (3) How is the language around disability used in the 18th and early 19th-century Early Caribbean texts? 
 
-## Past
-
-### [*Cyborg in the Popular Imagination*](https://mdonabella.github.io/mdonabella.github.io-DH22/2022-05-09-finalproject-cyborgdata/)
 
 
 
