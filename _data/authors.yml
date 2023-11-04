@@ -5,7 +5,6 @@ Name Name:
   uri         : "https://mdonabella.github.io/"
   email       : "mxd4207@miami.edu"
   bio         : "This is the first name."
-  avatar      : 
   twitter     : "name"
   google_plus : "Name"
 
@@ -13,6 +12,5 @@ Name2 Name2:
   name        : "Micaela Donabella"
   email       : "mxd4207@miami.edu"
   bio         : "I ordered what?"
-  avatar      : "https://github.com/mdonabella/mdonabella.github.io/blob/1e0b8fad6b0d1f34f42b740cf0789e67bcbff264/images/profile.png"
   twitter     : "@mc_donabella"
   google_plus : "Name"
