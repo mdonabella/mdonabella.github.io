@@ -11,10 +11,6 @@ redirect_from:
 
 This project explores manifestations of technoableism in online discourse, and in turn, asks how disabled writers and activists respond critically to the notion that technology will eventually eliminate disability. It draws upon analyses from my own working datasets, which aim to showcase trends based on data from the Twitter API and metadata from TikTok.  
 
-### Datasets 
-[TikTok](https://doi.org/10.5281/zenodo.7897928)
-
-[Twitter](https://doi.org/10.5281/zenodo.7897938) 
 
 ### [*Disability in Archives: Reading Somatic Difference in the ECDA*](https://doi.org/10.5281/zenodo.7898107)
 
