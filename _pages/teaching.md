@@ -16,7 +16,7 @@ author_profile: true
 #### University of Miami, Spring 2023
 
 
-### First-Year Writing I: Discourse Communities (WRS 105)
+### First-Year Writing I (WRS 105)
 #### University of Miami, Fall 2022
  
 
