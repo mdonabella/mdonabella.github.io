@@ -11,7 +11,7 @@ University of Miami, Spring 2025
 University of Miami, Fall 2024
 
 **Level V - Oral Communication (IEP 105)**
-Intensive Language Insitute, University of Miami, Summer 2024
+Intensive Language Institute, University of Miami, Summer 2024
 
 **First-Year Writing II (WRS 106)**
 University of Miami, Spring 2023, Spring 2024 
