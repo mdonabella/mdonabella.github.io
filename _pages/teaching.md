@@ -14,7 +14,7 @@ University of Miami, Fall 2024
 Intensive Language Institute, University of Miami, Summer 2024
 
 **First-Year Writing II (WRS 106)**
-University of Miami, Spring 2023, Spring 2024 
+University of Miami, Spring 2023, Spring 2024, Fall 2024
 
 **First-Year Writing I (WRS 105)**
 University of Miami, Fall 2022
