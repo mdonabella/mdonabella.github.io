@@ -21,7 +21,7 @@ author_profile: true
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” [Symposium for English Graduate Students (SEGUE), College at Brockport](https://brockportsegue.wordpress.com/), Brockport, NY, February 23, 2019
 
 ## Publications 
-“Wearable Tech & the Casualization of Biometric Surveillance,” *Pulse: Journal of Science and Cultures* (in press)
+“Wearable Tech & the Casualization of Biometric Surveillance,” *Pulse: Journal of Science and Culture* (in press)
 
 “Beckett & the Impossibility of Mastery: An Analysis of Agency and Control in Samuel Beckett’s Dramatic Works.” *State University of New York at Buffalo ProQuest Dissertations Publishing,* 2020.
 
