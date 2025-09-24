@@ -4,9 +4,9 @@ title: Conferences & Publications
 permalink: /talks/
 author_profile: true
 ---
-## Conferences
+## Conferences & Workshops
 
-5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 
+5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
 “Cyborgs, Robots, and Surplus Labor,” Northeast Modern Language Association Annual Convention, Philadelphia, PA, March 6-9, 2025 
 
@@ -23,7 +23,7 @@ author_profile: true
 ## Publications 
 “Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture* (in press)
 
-“Beckett & the Impossibility of Mastery: An Analysis of Agency and Control in Samuel Beckett’s Dramatic Works,” *State University of New York at Buffalo ProQuest Dissertations Publishing,* 2020.
+
 
 
 
