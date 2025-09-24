@@ -21,7 +21,7 @@ author_profile: true
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” [Symposium for English Graduate Students (SEGUE), College at Brockport](https://brockportsegue.wordpress.com/), Brockport, NY, February 23, 2019
 
 ## Publications 
-“Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture* (in press)
+“Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture,* vol. 11, Central European University (forthcoming)
 
 
 
