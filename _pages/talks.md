@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: Conferences & Publications
+title: Talks & Publications
 permalink: /talks/
 author_profile: true
 ---
-## Conferences & Workshops
+## Conferences 
 
 5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
@@ -21,7 +21,7 @@ author_profile: true
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” [Symposium for English Graduate Students (SEGUE), College at Brockport](https://brockportsegue.wordpress.com/), Brockport, NY, February 23, 2019
 
 ## Publications 
-“Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture,* vol. 11, Central European University (forthcoming)
+“Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture,* vol. 11, Central European University (2024)
 
 
 
