@@ -14,7 +14,7 @@ author_profile: true
 
 “Cyborg Resistance to Technoableism, or Disabled Responses to Health Gimmicks,” Northeast Modern Language Association Annual Convention, Boston, MA, March 7-10, 2024
 
-“Dreaming the Cyborg: Biohacking, Technoableism, & Disabled Futures,” [The Humanities Center at Texas Tech Annual Conference 2023: “Health,”](https://techannounce.ttu.edu/Client/ViewMessage.aspx?MsgId=272581) Texas Tech University, Lubbock, Texas, April 28-29, 2023
+“Biohacking, Technoableism, & Disabled Futures,” [The Humanities Center at Texas Tech Annual Conference 2023: “Health,”](https://techannounce.ttu.edu/Client/ViewMessage.aspx?MsgId=272581) Texas Tech University, Lubbock, Texas, April 28-29, 2023
 
 “Reading Somatic Difference in the ECDA,” [Digital Humanities Research Institute](https://dh.miami.edu/events/index.html), University of Miami, Miami, FL, March 30-31, 2023
 
