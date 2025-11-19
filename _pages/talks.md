@@ -14,11 +14,11 @@ author_profile: true
 
 “Cyborg Resistance to Technoableism, or Disabled Responses to Health Gimmicks,” Northeast Modern Language Association Annual Convention, Boston, MA, March 7-10, 2024
 
-“Biohacking, Technoableism, & Disabled Futures,” [The Humanities Center at Texas Tech Annual Conference 2023: “Health,”](https://techannounce.ttu.edu/Client/ViewMessage.aspx?MsgId=272581) Texas Tech University, Lubbock, Texas, April 28-29, 2023
+“Biohacking, Technoableism, & Disabled Futures,” The Humanities Center at Texas Tech Annual Conference 2023: “Health,” Texas Tech University, Lubbock, Texas, April 28-29, 2023
 
-“Reading Somatic Difference in the Early Caribbean Digital Archive,” [Digital Humanities Research Institute](https://dh.miami.edu/events/index.html), University of Miami, Miami, FL, March 30-31, 2023
+“Reading Somatic Difference in the Early Caribbean Digital Archive,” Digital Humanities Research Institute, University of Miami, Miami, FL, March 30-31, 2023
 
-“Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” [Symposium for English Graduate Students (SEGUE), College at Brockport](https://brockportsegue.wordpress.com/), Brockport, NY, February 23, 2019
+“Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” Symposium for English Graduate Students (SEGUE), College at Brockport, Brockport, NY, February 23, 2019
 
 ## Publications 
 “Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture,* vol. 11, Central European University (2024)
