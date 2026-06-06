@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Conferences 
 
-“Sustaining Ethical Research in Times and Positions of Precarity," Computers & Writing Conference, Charlotte, NC June 4-7, 2026
+“Sustaining Ethical Research in Times and Positions of Precarity," Computers & Writing Conference, Charlotte, NC, June 4-7, 2026
 
 5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
