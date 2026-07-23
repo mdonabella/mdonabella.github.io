@@ -23,7 +23,7 @@ author_profile: true
 “Resistance Through Poiesis: Responding to Heidegger in the State of Software Ubiquity,” *Symposium for English Graduate Students* (SEGUE), College at Brockport (SUNY), February 23, 2019
 
 ## Publications 
-"The Incidental Disability Politics of Kazuo Ishiguro's _Klara and the Sun," _Extrapolation_ (forthcoming 2027)
+"The Incidental Disability Politics of _Klara and the Sun_," _Extrapolation_ (forthcoming 2027)
 
 “Wearable Tech & the Casualization of Biometric Surveillance in Wellness Culture,” *Pulse: The Journal of Science and Culture,* vol. 11, Central European University (2024)
 
