@@ -5,8 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 ## Conferences 
+"The Chronotope of Feminist Time-Travel Plots," Panelist, Sturgeon Symposium, University of Kansas, October 15-16, 2026  
 
-“Sustaining Ethical Internet Research in Times and Positions of Precarity," *Computers & Writing Conference*, Charlotte, NC, June 4-7, 2026
+“Sustaining Ethical Internet Research in Times and Positions of Precarity," Panelist, *Computers & Writing Conference*, Charlotte, NC, June 4-7, 2026
 
 5th Annual Digital IDEAS Summer Institute, University of Michigan, Ann Arbor, June 23-27, 2025 (selected participant)
 
