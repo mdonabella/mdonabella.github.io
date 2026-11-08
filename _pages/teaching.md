@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+**Special Topics in American Studies: Disability in U.S. Politics and Culture (AMS 301)**
+University of Miami, Spring 2027
+
 **Writing About Literature and Culture: Writing in the Digital Age (ENG 106)**
 University of Miami, Spring 2025, Summer 2025
 
