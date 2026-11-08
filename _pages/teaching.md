@@ -19,8 +19,8 @@ Intensive Language Institute, University of Miami, Summer 2024
 **First-Year Writing II: Disability in the Media (WRS 106)**
 University of Miami, Spring 2023, Fall 2024
 
-**First-Year Writing I (WRS 105)**
-University of Miami, Fall 2022
+**First-Year Writing I: Multiliteracies and Rhetorical Foundations (WRS 105)**
+University of Miami, Fall 2022, Fall 2026 
  
 
 
